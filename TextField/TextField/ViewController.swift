@@ -54,6 +54,11 @@ class ViewController: UIViewController, UITextFieldDelegate   {
     /// 按下Return鍵
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         print("textFieldShouldReturn")
+        // 1.關閉鍵盤
+        self.view.endEditing(true)
+        // 2.關閉鍵盤
+        tf.resignFirstResponder()
+        //
         return true
     }
     /// 內容改變的時候
