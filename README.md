@@ -8,5 +8,7 @@ I am Yii
 iOS-Tutorial
 ================
 
+*   [UIApplication的基本使用 - 20180720](https://github.com/chyiiiiiiiiiiii/iOS-Tutorial/tree/master/UIApplication)
+    *   [https://youtu.be/HugVDAlcNuA](https://youtu.be/HugVDAlcNuA)
 
 
