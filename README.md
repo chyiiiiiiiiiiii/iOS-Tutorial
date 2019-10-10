@@ -12,5 +12,9 @@ iOS-Tutorial
     *   [https://youtu.be/HugVDAlcNuA](https://youtu.be/HugVDAlcNuA)
 *   [UITextField 如何限制使用者輸入的內容呢？ - 20180721](https://github.com/chyiiiiiiiiiiii/iOS-Tutorial/tree/master/TextField)
     *   [https://youtu.be/AfAHT6obNQs](https://youtu.be/AfAHT6obNQs)
+*   [如何幫 UIView 添加外框、圓角、陰影、漸層呢？ - 20180722](https://github.com/chyiiiiiiiiiiii/iOS-Tutorial/tree/master/UIView)
+    *   [https://youtu.be/knH55I2FEnU](https://youtu.be/knH55I2FEnU)
+ *   [【Yii ☄ iOS】- 如何開啟超連結、FB、IG、GoogleMap 呢？ - 20190705]()
+    *   [https://youtu.be/mRACEvk9I3g](https://youtu.be/mRACEvk9I3g)
 
 
